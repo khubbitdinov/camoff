@@ -1,0 +1,10 @@
+{
+  "appId": "org.capacitor.quasar.app",
+  "appName": "ru.khubbitdinov.camoff",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "server": {
+    "url": "http://172.16.1.52:9500"
+  }
+}
